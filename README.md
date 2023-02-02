@@ -1,8 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Salem Gewiley</h1>
 <h3 align="center">A passionate web developer from Egypt</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F784822672535142521%2F&psig=AOvVaw0-sYt9nxvQQS8BbbhjA9Kf&ust=1675458137158000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCPjO7J7D9_wCFQAAAAAdAAAAABAE.gif">
-
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 
 - 🌱 I’m currently learning **Web development.**
 
