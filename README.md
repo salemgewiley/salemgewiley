@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://www.linkedin.com/in/salem-abdel-moneim-gewiley/](https://www.linkedin.com/in/salem-gewiley-268aab246/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3By4OIc2EQStuYopUDn6JIeg%3D%3D)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salem gewiley" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/salem-gewiley-268aab246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salem gewiley" height="30" width="40" /></a>
 <a href="https://www.facebook.com/salem.gewily/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="salem gewily" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/x-mn3m-x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="x-mn3m-x" height="30" width="40" /></a>
 </p>
