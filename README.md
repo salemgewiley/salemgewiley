@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Salem Gewiley</h1>
 <h3 align="center">A passionate web developer from Egypt </h3>
-![Uploading Junior or senior front-end developer.gif…]()
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salemgewiley&label=Profile%20views&color=0e75b6&style=flat" alt="salemgewiley" /> </p>
 
