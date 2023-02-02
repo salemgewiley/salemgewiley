@@ -1,7 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Salem Gewiley</h1>
-<h3 align="center">A passionate web developer from Egypt</h3>
-<img align"right" alt "Coding" width"400" src="https://www.google.com/search?q=animated+frontend&tbm=isch&ved=2ahUKEwi73Mf_3ff8AhX9XKQEHSVZCZ0Q2-cCegQIABAA&oq=animated+frontend&gs_lcp=CgNpbWcQAzoECCMQJzoHCAAQgAQQEzoICAAQCBAeEBM6BQgAEIAEOgQIABAeOggIABAFEB4QE1D4B1j2FGD9GGgAcAB4AIABlAGIAZMJkgEDMC45mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=wyTcY_vuBf25kdUPpbKl6Ak&bih=722&biw=1536#imgrc=xvVSqrDv3Wb41M"> 
+<h3 align="center">A passionate web developer from Egypt </h3>
+![Uploading Junior or senior front-end developer.gif…]()
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salemgewiley&label=Profile%20views&color=0e75b6&style=flat" alt="salemgewiley" /> </p>
 
 - 🌱 I’m currently learning **Web development.**
