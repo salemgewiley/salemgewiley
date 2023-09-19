@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Web+Developer;Computer+Science+Student;Competitive+Programmer;Always+learning+new+things"></a>
 </p>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/16/fe/7e/16fe7e7fb6eebb3087b6dc418748ee56.gif">
+<img align="right" alt="Coding" width="400" src="[https://i.pinimg.com/originals/16/fe/7e/16fe7e7fb6eebb3087b6dc418748ee56.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fglobaledu.net.in%2Ffront-end-development&psig=AOvVaw09N9uf4XrVuzmsJ2YFTDKA&ust=1695216984927000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLjDlcTltoEDFQAAAAAdAAAAABAK)">
 
 - 🌱 I’m currently learning **Web development.**
 
